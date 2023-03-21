@@ -1,0 +1,17 @@
+ul{
+  list-style-type:none;
+  display:flex;
+  flex-direction: row;
+}
+
+.nav{
+  display:flex;
+  justify-content: flex-end;
+}
+li{
+  margin: 15px;
+}
+
+.nav h2{
+  float:left;
+}
